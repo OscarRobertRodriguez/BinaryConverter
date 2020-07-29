@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BinaryConverter/static/css/main.8fa351c7.chunk.css",
+    "main.js": "/BinaryConverter/static/js/main.292f0b51.chunk.js",
+    "main.js.map": "/BinaryConverter/static/js/main.292f0b51.chunk.js.map",
+    "runtime-main.js": "/BinaryConverter/static/js/runtime-main.be6bf255.js",
+    "runtime-main.js.map": "/BinaryConverter/static/js/runtime-main.be6bf255.js.map",
+    "static/css/2.d34346ea.chunk.css": "/BinaryConverter/static/css/2.d34346ea.chunk.css",
+    "static/js/2.b5ff200a.chunk.js": "/BinaryConverter/static/js/2.b5ff200a.chunk.js",
+    "static/js/2.b5ff200a.chunk.js.map": "/BinaryConverter/static/js/2.b5ff200a.chunk.js.map",
+    "index.html": "/BinaryConverter/index.html",
+    "precache-manifest.e599b8c20f190f5559a5754d40a3bc45.js": "/BinaryConverter/precache-manifest.e599b8c20f190f5559a5754d40a3bc45.js",
+    "service-worker.js": "/BinaryConverter/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/BinaryConverter/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.8fa351c7.chunk.css.map": "/BinaryConverter/static/css/main.8fa351c7.chunk.css.map",
+    "static/js/2.b5ff200a.chunk.js.LICENSE.txt": "/BinaryConverter/static/js/2.b5ff200a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be6bf255.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.b5ff200a.chunk.js",
+    "static/css/main.8fa351c7.chunk.css",
+    "static/js/main.292f0b51.chunk.js"
+  ]
+}
